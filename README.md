@@ -11,4 +11,12 @@
 | [1390-average-selling-price](https://github.com/MoatazXI/leetcodeSolutions/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/MoatazXI/leetcodeSolutions/tree/master/1827-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/1603-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
