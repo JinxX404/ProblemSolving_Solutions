@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
