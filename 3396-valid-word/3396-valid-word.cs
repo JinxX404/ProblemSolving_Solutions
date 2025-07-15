@@ -1,26 +1,31 @@
 public class Solution {
-            public bool IsValid(string word)
+                   public bool IsValid(string word)
         {
-            word = word.ToLower();
+    
             if (word.Length < 3) return false;
 
-            return hasVowel(word) && hasDigitsandLetters(word) && hasConsonant(word);
+            bool hasVowel = false;
+            bool hasConsonant = false;
 
-        }
-        private bool hasVowel(string word)
-        {
-            var vowels = "aieou";
+            foreach (var c in word.ToLower())
+            {
+                if (!char.IsLetterOrDigit(c))
+                {
+                    return false;
+                }
 
-            return word.Any(c => vowels.Contains(c));
-            
-        }
-        private bool hasConsonant(string word)
-        {
-            var consonants = "BCDFGHJKLMNPQRSTVWXYZbcdfghjklmnpqrstvwxyz";
-            return word.Any(c => consonants.Contains(c));
-        }
-        private bool hasDigitsandLetters(string word)
-        {
-            return word.All(char.IsLetterOrDigit);
+
+                if ("aieou".Contains(c))
+                {
+                    hasVowel = true;
+                }
+                else if(!char.IsDigit(c)) // if not a vowel and not a digit so it will be consonant
+                {
+                    hasConsonant = true;
+                }
+
+            }
+
+            return hasConsonant && hasVowel;
         }
 }
