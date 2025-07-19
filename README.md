@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [3396-valid-word](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/3396-valid-word) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
