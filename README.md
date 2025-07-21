@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0344-reverse-string) |
 | [3396-valid-word](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/3396-valid-word) |
 ## Hash Table
 |  |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
