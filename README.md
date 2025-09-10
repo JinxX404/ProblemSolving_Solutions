@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0066-plus-one) |
+| [0215-kth-largest-element-in-an-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/2058-concatenation-of-array) |
@@ -42,9 +43,22 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
