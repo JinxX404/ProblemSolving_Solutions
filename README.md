@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0066-plus-one) |
+| [2037-count-square-sum-triples](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/2037-count-square-sum-triples) |
 ## String
 |  |
 | ------- |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2037-count-square-sum-triples](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/2037-count-square-sum-triples) |
 <!---LeetCode Topics End-->
