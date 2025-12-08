@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0066-plus-one) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2037-count-square-sum-triples](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/2037-count-square-sum-triples) |
 ## String
 |  |
