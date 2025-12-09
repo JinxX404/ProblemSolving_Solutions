@@ -5,6 +5,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/MoatazXI/leetcodeSolutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/MoatazXI/leetcodeSolutions/tree/master/0595-big-countries) |
