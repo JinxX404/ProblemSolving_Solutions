@@ -11,6 +11,7 @@
 | [0584-find-customer-referee](https://github.com/MoatazXI/leetcodeSolutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/MoatazXI/leetcodeSolutions/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/MoatazXI/leetcodeSolutions/tree/master/1258-article-views-i) |
+| [1317-monthly-transactions-i](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/MoatazXI/leetcodeSolutions/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1670-patients-with-a-condition](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/1670-patients-with-a-condition) |
