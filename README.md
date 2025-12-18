@@ -20,6 +20,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/MoatazXI/leetcodeSolutions/tree/master/1827-invalid-tweets) |
+| [2057-count-salary-categories](https://github.com/JinxX404/ProblemSolving_Solutions/tree/master/2057-count-salary-categories) |
 ## Array
 |  |
 | ------- |
